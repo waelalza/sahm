@@ -11,7 +11,7 @@ class CustomNavbar extends HTMLElement {
             <a href="#results" class="text-gray-600 hover:text-green-700 transition-colors">نتائج المشتركين</a>
             <a href="#signup" class="bg-green-600 text-white px-5 py-2 rounded-full font-bold hover:bg-green-700 transition-all">اشترك الآن</a>
           </div>
-          </div>
+        </div>
       </nav>
       <div class="pt-20"></div> 
     `;
